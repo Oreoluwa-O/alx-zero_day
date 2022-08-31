@@ -1,2 +1,2 @@
 My non-empty readme
-sm
+Readme has been edited
